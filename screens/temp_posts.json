@@ -1,0 +1,17 @@
+[
+    {
+        "author": "Amit Mishra",
+        "image": "post-1.jpeg",
+        "caption": "Caption 1"
+    },
+    {
+        "author": "Ojas Barve",
+        "image": "post-3.jpeg",
+        "caption": "Caption 2"
+    },
+    {
+        "author": "Priya Deverakonda",
+        "image": "post-4.jpeg",
+        "caption": "Caption 3"
+    }
+]
